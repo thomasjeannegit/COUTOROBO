@@ -2,3 +2,4 @@
 * text=auto
 *.mp4.mov.mp3.uasset.umap.uproject.abc.fbx.mb.ma.max.blend.psd.avi filter=lfs diff=lfs merge=lfs -text
 CoutoRobo_Unreal/Content filter=lfs diff=lfs merge=lfs -text
+Main_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
