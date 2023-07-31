@@ -878,3 +878,5 @@ Recommended: 516.25
 [2023.07.31-17.28.13:769][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.07.31-17.28.13:987][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.07.31-17.28.16:844][  4]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.31-18.28.02:922][184]LogDerivedDataCache: D:/UE_4.27/LOCAL_DDC_CACHE: Maintenance finished in +00:00:00.125 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.31-18.28.04:599][189]LogDerivedDataCache: D:/UE_4.27/LOCAL_DDC_CACHE: Maintenance finished in +00:00:01.749 and deleted 0 file(s) with total size 0 MiB.
