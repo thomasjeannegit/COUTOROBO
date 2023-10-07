@@ -8,3 +8,4 @@ main_builtdata_2.upackage filter=lfs diff=lfs merge=lfs -text
 main_builtdata_3.upackage filter=lfs diff=lfs merge=lfs -text
 main_builtdata_4.upackage filter=lfs diff=lfs merge=lfs -text
 main_builtdata_5.upackage filter=lfs diff=lfs merge=lfs -text
+.avi filter=lfs diff=lfs merge=lfs -text
